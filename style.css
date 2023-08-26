@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+body{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  font-family: inter;
+}
+nav{
+  width: 1728px;
+  height: 87px;
+  border: 0px 0px 2px 0px;
+  border-bottom: 2px solid #FFFFFF;
+  position: sticky;
+}
+#left{
+  padding-left:40px;
+  padding-top: 40px;
+}
+#right-nav{
+  margin-left: 1250px;
+  padding-bottom: 60px;
+}
+.right{
+  list-style: none;
+  text-decoration: none;
+  color: #FFFFFF;
+  padding: 15px;
+}
+
+button {
+  margin-left: 400px;
+  margin-top: 20px;
+  padding: 15px;
+  cursor: pointer;
+  width: 120px;
+}
+input{
+  border-bottom: 1px solid #FFFFFF;
+  background-color: black;
+  margin-left: 400px;
+  padding: 15px;
+  width: 900px;
+  top: 625.008544921875px;
+  left: 260px;
+  motion-rotation: 0.1 deg; 
+}
+h1{
+  margin-left: 400px;
+  margin-top: 80px;
+}
+.message {
+    margin-top: 10px;
+}
+ 
+/*profile*/
+p{
+  margin-left: 100px;
+  font-size: x-large;
+}
+#logout-button{
+  margin-left: 100px;
+  width: 120px;
+}
